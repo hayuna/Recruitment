@@ -11,7 +11,7 @@ Steps should be separated by line.<br>
 Current and previous steps should be filled by some background.<br>
 In case our current step is more than first, we should have possibility to click previous step and go to this. Of course values entered in form should be filled.<br>
 ### Form fields
-Each fields should be validated and error should be displayed next to field.
+Each fields should be validated and error should be displayed next to field.<br>
 Amount of fields should be various
 ### Action buttons
 Action buttons should be affixed to edge of container with form fields.
