@@ -27,3 +27,5 @@
 ##### Discount with limited time
 - [ ] We want to have limited discount code to specific time. It should be stored in props
 
+### Mockups
+![Mockups](https://raw.githubusercontent.com/hayuna/Recruitment/main/CatchTheDeal/Screenshot%202020-12-17%20at%2021.39.45.png)
