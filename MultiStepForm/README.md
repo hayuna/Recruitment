@@ -28,4 +28,4 @@ Action buttons should be affixed to edge of container with form fields.
 In case of any field with error, next/submit button should be disabled.
 
 ## Mockups
-![Mockups](https://raw.githubusercontent.com/hayuna/MultiStepForm/main/Screenshot%202020-11-12%20at%2022.01.53.png)
+![Mockups](https://raw.githubusercontent.com/hayuna/Recruitment/main/MultiStepForm/Screenshot%202020-11-12%20at%2022.01.53%20(1).png)
